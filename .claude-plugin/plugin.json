@@ -1,0 +1,1 @@
+{ "name": "usage-band", "version": "0.1.1", "description": "Live context window and plan usage limits above the prompt", "author": { "name": "theMubashir919" }, "license": "MIT", "types": "./types/index.d.ts" }

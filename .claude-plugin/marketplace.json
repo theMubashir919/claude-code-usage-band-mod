@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-usage-band-mod",
+  "owner": { "name": "theMubashir919" },
+  "plugins": [{ "name": "usage-band", "source": "./", "description": "Live context window and plan usage limits above the prompt" }]
+}
